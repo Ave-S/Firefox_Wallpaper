@@ -3,7 +3,7 @@
 ***
 ### **The Summary:**   
 
-The firefox browser by date (10.5.22) does not yet have a feature to set a background wallpaper for the homescreen/new tab. 
+The fireforowser by date (0.5.22) does not yet have a feature to set a background wallpaper for the homescreen/new tab. 
 The process to set the browser requrires the user to create a folder and .css files in Mozzila's firefox folder and manually adding a picture. 
 
 
